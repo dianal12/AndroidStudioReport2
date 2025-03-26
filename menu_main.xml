@@ -1,0 +1,7 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/text_file" android:title="텍스트 파일"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/image_file" android:title="Image 파일"
+        tools:ignore="HardcodedText" />
+</menu>
